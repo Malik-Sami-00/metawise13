@@ -1,0 +1,171 @@
+.cv{
+    border: 2px solid black;
+    max-width: 85vw;
+    max-height: 170vh;
+}
+
+
+.side{
+    max-width: 25vw;
+    display: block;
+    
+    background-color: #eeebea;
+}
+
+
+img{
+   width: 20vw;
+   height: 420px; 
+   border-radius: 50px;
+}
+.con{
+    text-decoration: underline;
+}
+.phone{
+    width: 20px;   
+    height: 17px;
+    position: relative;
+    bottom: 1px;
+   }
+   p{
+    position: relative;
+    bottom: 39px;
+    left: 40px;
+   }
+.email{
+    width: 20px;   
+    height: 17px;
+    position: relative;
+    bottom: 20px; 
+    
+    
+   }
+   .p2{
+    position: relative;
+    bottom: 58px;
+    left: 40px;
+   }
+.home{
+    width: 20px;   
+    height: 17px;
+    position: relative;
+    bottom: 35px; 
+    
+   }
+   .p3{
+    position: relative;
+    bottom: 72px;
+    left: 40px;
+   }
+
+
+.ed{
+position: relative;
+bottom: 50px;
+}
+.e{
+    text-decoration: underline;
+}
+   .uni{
+    max-width: 115px;
+max-height: 50px;
+   }
+   .college{
+    max-width: 115px;
+max-height: 50px;
+margin-top: 20px;
+   }
+
+
+   .sk{
+    position: relative;
+    bottom: 30px;
+   }
+   .s{
+    text-decoration: underline;
+   }
+
+   ul li{
+    position: relative;
+    right: 23px;
+   }
+
+
+   .os{
+    position: relative;
+    max-width: 60vw;
+    height: 30vh;
+    background-color: #d6d9e0;
+    bottom:753px ;
+    left: 320px;
+   
+    
+   }
+   .n{
+position: relative;
+left: 250px;
+top: 50px;   
+    
+   }
+   .np{
+    position: relative;
+    left: 280px;
+    top: 50px;
+   }
+   .pro{
+    position: relative;
+    bottom: 755px;
+    left: 330px;
+    max-width: 60vw;
+    height: 30vh;
+    
+   }
+   .pr{
+    text-decoration: underline;
+   }
+   .pp{
+    position: relative;
+    bottom:10px;
+    left: 0px;
+    
+   }
+
+
+
+   .work{
+    position: relative;
+    bottom: 738px;
+    left: 330px;
+    max-width: 60vw;
+    height: 30vh;
+    
+   }
+   .wr{
+    text-decoration: underline;
+   }
+   .ppp{
+    position: relative;
+    bottom:10px;
+    left: 0px;
+    
+   }
+
+
+   .en{
+    position: relative;
+    bottom: 726px;
+    left: 330px;
+    max-width: 60vw;
+    height: 30vh;
+    
+   }
+   .ent{
+    text-decoration: underline;
+   }
+   .pppp{
+    position: relative;
+    bottom:10px;
+    left: 0px;
+    
+   }
+
